@@ -4,3 +4,5 @@
 #### Here are some more headings
 ##### Even more
 ###### All the way to h6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
